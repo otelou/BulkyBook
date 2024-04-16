@@ -1,0 +1,11 @@
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll

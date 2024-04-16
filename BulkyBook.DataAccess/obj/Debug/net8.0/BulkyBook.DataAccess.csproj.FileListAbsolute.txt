@@ -1,0 +1,17 @@
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.AssemblyInfo.cs
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.deps.json
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.runtimeconfig.json
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.DataAccess.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Models.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\bin\Debug\net8.0\BulkyBook.Models.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBoo.9EA05358.Up2Date
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\refint\BulkyBook.DataAccess.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\BulkyBook.DataAccess.genruntimeconfig.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.DataAccess\obj\Debug\net8.0\ref\BulkyBook.DataAccess.dll

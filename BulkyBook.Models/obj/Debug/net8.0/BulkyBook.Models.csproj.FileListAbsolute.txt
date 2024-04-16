@@ -1,0 +1,12 @@
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+E:\ApprentissageCSharp\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
